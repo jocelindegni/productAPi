@@ -1,0 +1,34 @@
+{
+"products":[
+    {
+        "id": 1,
+        "name": "aloe Verra",
+        "price" : 20.5,
+        "quantity" : 5
+    },
+    {
+        "id": 2,
+        "name": "brioche",
+        "price" : 2.5,
+        "quantity" : 100
+    },
+    {
+        "id": 3,
+        "name": "lustucru",
+        "price" : 3,
+        "quantity" : 45
+    },
+    {
+        "id": 4,
+        "name": "samsung s9",
+        "price" : 795,
+        "quantity" : 50
+    },
+    {
+        "id": 5,
+        "name": "Gucci",
+        "price" : 2000,
+        "quantity" : 5
+    }
+]
+}
